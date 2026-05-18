@@ -22,16 +22,6 @@
 
 Imagine HDFC Bank is a race car speeding through the busy traffic of Indian banking. I built this custom dashboard – a powerful tool – to help us see how we're doing compared to other banks in this race.
 
-## How I Pulled It Off: 💻
-
-Data scraped from the RBI website covering April 2022 to March 2023 gave me the insights I needed. But it wasn't just raw numbers, I used sophisticated techniques:
-
-- **Selenium WebDriver:** This automated robot interacted with the RBI website, navigating its dynamic pages and clicking through menus to find the right data.
-
-  - Learn more: [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/en/)
-
-- **Requests Library:** Once I had the links to the relevant Excel files, this library downloaded them for me, bringing the data right to my fingertips.
-  - Learn more: [Requests Library Documentation](https://docs.python-requests.org/en/latest/)
 
 ## Update: Data Cleaning Done! ✨
 
