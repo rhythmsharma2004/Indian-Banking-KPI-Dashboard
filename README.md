@@ -43,22 +43,7 @@ With the data now in a clean and structured format, the next steps include:
 
 ---
 
-Stay tuned for updates! I'm excited to share the complete picture soon.
 
-Feel free to ask questions or cheer me on!
-
----
-
-## Notebooks :notebook:
-
-- [Web Scraping Notebook](01_web_scraping.ipynb)
-- [Monthly Card Data Processing Notebook](02_monthly_card_data_processing.ipynb)
-
-## References :books:
-
-Websites:
-
-- Reserve Bank of India (RBI): [RBI ATM Data](https://www.rbi.org.in/Scripts/ATMView.aspx)
 
 Libraries and Tools:
 
